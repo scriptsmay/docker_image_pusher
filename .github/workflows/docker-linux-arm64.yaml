@@ -16,6 +16,7 @@ jobs:
 
   build:
     name: Pull
+    # ps. github action 使用mac容器是要收费的
     runs-on: macos-latest-large
     steps:
     - name: Docker Setup Buildx
