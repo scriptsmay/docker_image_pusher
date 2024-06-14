@@ -1,14 +1,2 @@
-whyour/qinglong:2.11.3
-xiaoyaliu/alist:latest
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
-chishin/nginx-proxy-manager-zh:latest
-xiaoyaliu/glue
-haroldli/xiaoya-tvbox
-emby/embyserver
-emby/embyserver:4.8.0.56
-portainer/portainer-ce:latest
+# 只能指定 linux_arm / linux_arm64 架构的镜像
+portainer/portainer-ce:linux-arm64
