@@ -14,8 +14,8 @@ nginx
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #zabbix
-zabbix/zabbix-web-nginx-mysql:latest
+#zabbix/zabbix-web-nginx-mysql:latest
 zabbix/zabbix-web-nginx-mysql:centos-7.0-latest
-zabbix/zabbix-server-mysql:latest
+#zabbix/zabbix-server-mysql:latest
 zabbix/zabbix-server-mysql:centos-7.0-latest
-zabbix-build-base:centos-7.0-local
+#zabbix-build-base:centos-7.0-local
