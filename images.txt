@@ -1,6 +1,16 @@
+chishin/nginx-proxy-manager-zh:latest
+xiaoyaliu/glue
+haroldli/xiaoya-tvbox
+emby/embyserver
+emby/embyserver:4.8.8.0
+portainer/portainer-ce:latest
+jeessy/ddns-go
+whyour/qinglong:2.11.3
+xiaoyaliu/alist:latest
+xhofe/alist:latest
 nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
+#openwrt/rootfs:x86_64
