@@ -1,3 +1,4 @@
+supermanito/arcadia:beta
 chishin/nginx-proxy-manager-zh:latest
 xiaoyaliu/glue
 haroldli/xiaoya-tvbox
